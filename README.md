@@ -1,13 +1,13 @@
 # ✈️ Airline Delay Analysis - Final Project
 
-## 👨‍🎓 Student: SAEID ASHRAFIZAVEH  
-## 📚 Course: Data Visualization  
-## 📅 Date: January 2026
+## Student: SAEID ASHRAFIZAVEH  
+## Course: Data Visualization  
+## Date: January 2026
 
-## 📊 Project Overview
+## Project Overview
 Analysis of 50,000 airline flights from January 2018 to identify delay patterns, causes, and optimization opportunities.
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ### 1_Notebook/
 - Complete Jupyter notebook with all analysis
@@ -29,7 +29,7 @@ Analysis of 50,000 airline flights from January 2018 to identify delay patterns,
 - All 15+ visualization exports
 - High-resolution PNG files
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Run Jupyter Notebook:
 ```bash
