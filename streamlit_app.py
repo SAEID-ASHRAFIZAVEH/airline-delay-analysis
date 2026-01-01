@@ -3,7 +3,6 @@ if sys.version_info >= (3, 12):
     import warnings
     warnings.filterwarnings("ignore")
 
-
 # -*- coding: utf-8 -*-
 """streamlit_app.py
 
